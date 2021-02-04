@@ -96,7 +96,8 @@ return [
 
     'options' => [
         'application' => env('APP_NAME', 'Laravel'),
-        'repository' => 'https://github.com/Vladimir5577/pagination.git',
+        'repository' => 'https://github.com/Vladimir5577/laravel_deployer.git
+',
     ],
 
     /*
