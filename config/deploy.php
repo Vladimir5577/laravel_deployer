@@ -96,8 +96,7 @@ return [
 
     'options' => [
         'application' => env('APP_NAME', 'Laravel'),
-        'repository' => 'https://github.com/Vladimir5577/laravel_deployer.git
-',
+        'repository' => 'https://github.com/Vladimir5577/laravel_deployer.git',
     ],
 
     /*
@@ -113,7 +112,7 @@ return [
 
     'hosts' => [
         '62.173.140.14' => [
-            'deploy_path' => '/var/www/html/dev/laravel/for_exam',
+            'deploy_path' => '/var/www/html/dev/laravel/for_exam/',
             'user' => 'dev',
         ],
     ],
